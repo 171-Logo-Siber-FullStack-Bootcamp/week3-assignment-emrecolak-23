@@ -1,6 +1,6 @@
 # SOCIELLA APP
 
-![SOCIELLA](https://resimyukle.imageupload.workers.dev/6PiaIGDw_sociella.jpg)
+![SOCIELLA](https://resimyukle.io/r/nzpCoqlbMA)
 
 ## Installation
 
