@@ -1,6 +1,6 @@
 # SOCIELLA APP
 
-![SOCIELLA](https://ibb.co/jH4VQ7c)
+![SOCIELLA](https://i.ibb.co/st35NL0/sociella.jpg)
 
 ## Installation
 
